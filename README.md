@@ -8,25 +8,25 @@ This project provides a comprehensive analysis of contact center operations for 
 
 - **GitHub**: Project documentation and version control
 ## 📊 Dataset
-- Source Data: [Link to your dataset here]
+- **Source Data**: [Link to your dataset here]
 
-- Description: The dataset contains detailed logs of customer interactions including:
+- **Description**: The dataset contains detailed logs of customer interactions including:
 
-  - Customer Info: Name, City, and State
+  - **Customer Info**: Name, City, and State
 
-  - Call Details: Call ID, Duration, Date, Reason, and Call Center City
+  - **Call Details**: Call ID, Duration, Date, Reason, and Call Center City
 
-  - Performance Metrics: Sentiment (Very Negative to Very Positive), CSAT Score (1-10), Communication Channel (Call Center, Web, Email, Chat), and Response Time (Within, Below, or Above SLA)
+  - **Performance Metric**s: Sentiment (Very Negative to Very Positive), CSAT Score (1-10), Communication Channel (Call Center, Web, Email, Chat), and Response Time (Within, Below, or Above SLA)
 ## ⚙️ Steps Followed
-- Data Cleaning (Excel): Handled missing values, formatted date columns, and ensured consistency in sentiment labeling
+- **Data Cleaning (Excel)**: Handled missing values, formatted date columns, and ensured consistency in sentiment labeling
 
-- Data Loading: Imported the cleaned file into Power BI
+- **Data Loading**: Imported the cleaned file into Power BI
 
-- Data Transformation: Created calculated measures for average CSAT, average duration, and SLA compliance percentages
+- **Data Transformation**: Created calculated measures for average CSAT, average duration, and SLA compliance percentages
 
-- Visual Development: Built a multi-visual dashboard featuring line charts for trends, scatter plots for correlations, and AI-driven "Key Influencers"
+- **Visual Development**: Built a multi-visual dashboard featuring line charts for trends, scatter plots for correlations, and AI-driven "Key Influencers"
 
-- Analysis: Extracted insights by filtering through different call reasons and response time categories
+- **Analysis**: Extracted insights by filtering through different call reasons and response time categories
 ## 💡 Key Insights
 The October 2020 data reveals critical areas where the contact center's performance has plateaued, offering clear opportunities for strategic improvement:
 
@@ -40,6 +40,20 @@ The October 2020 data reveals critical areas where the contact center's performa
 
 - **The "Neutral" Trap**: Neutral sentiment only provides a marginal **+1.26** lift to CSAT. This highlights a missed opportunity where agents are technically "resolving" the issue but failing to create a positive brand experience, leaving the customer feeling indifferent
 ## 🖼️ Screenshots
-- **Power BI Dashboard** - <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx">Link</a>
+- **Power BI Dashboard** - <a href="[https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx](https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Dashboard%20SS.png)">Link</a>
 
-- **Excel Cleaned Data** - <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx">Link</a>
+- **Excel Cleaned Data** - <a href="[https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx](https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Cleaned_Data_SS.png)">Link</a>
+## 📁 Files Included
+- cleaned_excel_data.xlsx: The processed dataset used for the analysis
+
+- Call_Center_Analysis.pbix: The Power BI project file containing all visuals and measures
+
+- README.md: This file, providing project documentation and insights
+## 🚀 How to Use
+- **View Data**: Download the cleaned_excel_data.xlsx to explore the raw numbers or try your own pivot tables
+
+- **Interact with Dashboard**: Open the .pbix file in Power BI Desktop
+
+- **Analyze Trends**: Use the slicers on the dashboard to filter by City or Channel to see how metrics change dynamically
+
+- **Check Influencers**: Refer to the Key Influencers visual to understand exactly what factors move the needle on customer happiness
