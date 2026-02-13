@@ -7,3 +7,13 @@ This project provides a comprehensive analysis of contact center operations for 
 - **Power BI**: Data modeling, DAX measures, and interactive dashboarding
 
 - **GitHub**: Project documentation and version control
+## 📊 Dataset
+- Source Data: [Link to your dataset here]
+
+- Description: The dataset contains detailed logs of customer interactions including:
+
+  - Customer Info: Name, City, and State.
+
+  - Call Details: Call ID, Duration, Date, Reason, and Call Center City.
+
+  - Performance Metrics: Sentiment (Very Negative to Very Positive), CSAT Score (1-10), Communication Channel (Call Center, Web, Email, Chat), and Response Time (Within, Below, or Above SLA).
