@@ -39,3 +39,7 @@ The October 2020 data reveals critical areas where the contact center's performa
 - **Soft Skills as the Growth Lever**: AI analysis confirms that **Sentiment—not speed or reason—is the only factor that significantly moves the needle**. A "Very Positive" interaction yields a **+4.37** CSAT boost, proving that the current "Average" scores are likely due to a lack of emotional engagement and empathy during calls
 
 - **The "Neutral" Trap**: Neutral sentiment only provides a marginal **+1.26** lift to CSAT. This highlights a missed opportunity where agents are technically "resolving" the issue but failing to create a positive brand experience, leaving the customer feeling indifferent
+## 🖼️ Screenshots
+- **Power BI Dashboard** - <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx">Link</a>
+
+- **Excel Cleaned Data** - <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx">Link</a>
