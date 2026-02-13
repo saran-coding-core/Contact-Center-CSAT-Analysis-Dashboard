@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of contact center operations for 
 
 - **GitHub**: Project documentation and version control
 ## 📊 Dataset
-- **Source Data**: [Link to your dataset here]
+- **Source Data**: <a href="https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Call%20Center%20Data_Cleaned_Final.xlsx)">Contact_Center_data_cleaned.xlsx</a>
 
 - **Description**: The dataset contains detailed logs of customer interactions including:
 
@@ -40,13 +40,13 @@ The October 2020 data reveals critical areas where the contact center's performa
 
 - **The "Neutral" Trap**: Neutral sentiment only provides a marginal **+1.26** lift to CSAT. This highlights a missed opportunity where agents are technically "resolving" the issue but failing to create a positive brand experience, leaving the customer feeling indifferent
 ## 🖼️ Screenshots
-- **Power BI Dashboard** - <a href="[https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx](https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Dashboard%20SS.png)">Link</a>
+- **Power BI Dashboard** - <a href="https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Dashboard%20SS.png)">Link</a>
 
-- **Excel Cleaned Data** - <a href="[https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx](https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Cleaned_Data_SS.png)">Link</a>
+- **Excel Cleaned Data** - <a href="https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Cleaned_Data_SS.png)">Link</a>
 ## 📁 Files Included
-- cleaned_excel_data.xlsx: The processed dataset used for the analysis
+- <a href="https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Call%20Center%20Data_Cleaned_Final.xlsx)">Contact_Center_data_cleaned.xlsx</a>: The processed dataset used for the analysis
 
-- Call_Center_Analysis.pbix: The Power BI project file containing all visuals and measures
+- <a href="https://github.com/saran-coding-core/Contact-Center-CSAT-Analysis-Dashboard/blob/main/Mini%20Project_Final.pbix">Call_Center_CSAT_Analysis.pbix</a>: The Power BI project file containing all visuals and measures
 
 - README.md: This file, providing project documentation and insights
 ## 🚀 How to Use
